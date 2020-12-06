@@ -1,9 +1,0 @@
-Navely 		#c5f3ff
-Jeongvely	#f0fcc1
-Movely		#ffc8e0
-Savely		#dec3ff
-Jively		#fde7c6
-Mively		#c9fff4
-Davely		#dc8a6b
-Chaenvely	#ff8b91
-Tzuvely		#64b4ff
